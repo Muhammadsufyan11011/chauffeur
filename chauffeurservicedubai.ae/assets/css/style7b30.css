@@ -288,7 +288,7 @@ h3 {
 
 .intro {
     min-height: 99vh;
-    background-image: url("../img/img-2023/banner-chauffeur.webp");
+    /* background-image: url("../img/img-2023/banner-chauffeur.webp"); */
     background-size: cover;
     background-position: center;
 
